@@ -1,2 +1,3 @@
 This is test 2 document
 Adding some content to it
+This is test for adding branch in remote repository
